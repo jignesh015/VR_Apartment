@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: d9d7d2d87cdf8524888fe792cf8ab33c
+timeCreated: 1539541367
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Apartment
+    100002: //RootNode
+    100004: Glass pane
+    100006: Glass pane.001
+    100008: Glass pane.002
+    100010: Glass pane.003
+    100012: Glass pane.004
+    100014: Medium glass pane
+    100016: Medium glass pane.001
+    100018: Medium glass pane.002
+    100020: Medium glass pane.003
+    100022: Small glass pane
+    100024: Small glass pane.001
+    100026: Small glass pane.002
+    100028: Small glass pane.003
+    100030: Small glass pane.004
+    100032: Small glass pane.005
+    400000: Apartment
+    400002: //RootNode
+    400004: Glass pane
+    400006: Glass pane.001
+    400008: Glass pane.002
+    400010: Glass pane.003
+    400012: Glass pane.004
+    400014: Medium glass pane
+    400016: Medium glass pane.001
+    400018: Medium glass pane.002
+    400020: Medium glass pane.003
+    400022: Small glass pane
+    400024: Small glass pane.001
+    400026: Small glass pane.002
+    400028: Small glass pane.003
+    400030: Small glass pane.004
+    400032: Small glass pane.005
+    2100000: Medium_glass_pane
+    2100002: Small_glass_material
+    2100004: Glass.001
+    2100006: Glass
+    2100008: Glass.004
+    2100010: Glass.003
+    2100012: Glass.002
+    2100014: Walls
+    2100016: Grills
+    2100018: Kitchen_floor
+    2100020: Floor
+    2100022: Ceiling
+    2100024: Door
+    2300000: Apartment
+    2300002: Glass pane
+    2300004: Glass pane.001
+    2300006: Glass pane.002
+    2300008: Glass pane.003
+    2300010: Glass pane.004
+    2300012: Medium glass pane
+    2300014: Medium glass pane.001
+    2300016: Medium glass pane.002
+    2300018: Medium glass pane.003
+    2300020: Small glass pane
+    2300022: Small glass pane.001
+    2300024: Small glass pane.002
+    2300026: Small glass pane.003
+    2300028: Small glass pane.004
+    2300030: Small glass pane.005
+    3300000: Apartment
+    3300002: Glass pane
+    3300004: Glass pane.001
+    3300006: Glass pane.002
+    3300008: Glass pane.003
+    3300010: Glass pane.004
+    3300012: Medium glass pane
+    3300014: Medium glass pane.001
+    3300016: Medium glass pane.002
+    3300018: Medium glass pane.003
+    3300020: Small glass pane
+    3300022: Small glass pane.001
+    3300024: Small glass pane.002
+    3300026: Small glass pane.003
+    3300028: Small glass pane.004
+    3300030: Small glass pane.005
+    4300000: Medium glass pane.003
+    4300002: Medium glass pane.002
+    4300004: Medium glass pane.001
+    4300006: Medium glass pane
+    4300008: Small glass pane.005
+    4300010: Small glass pane.004
+    4300012: Small glass pane.003
+    4300014: Small glass pane.002
+    4300016: Small glass pane.001
+    4300018: Small glass pane
+    4300020: Glass pane.004
+    4300022: Glass pane.003
+    4300024: Glass pane.002
+    4300026: Glass pane.001
+    4300028: Glass pane
+    4300030: Apartment
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
